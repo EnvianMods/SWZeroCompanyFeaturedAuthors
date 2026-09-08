@@ -1,6 +1,6 @@
 {
   "latest": "1.9.3",
-  "url": "https://www.nexusmods.com/starwarszerocompany/mods/121?tab=files",
-  "notes": "Public 1.0.2 — fixed false update badges (checks follow the Nexus file-update chain), 7-Zip bundled for .7z/.rar mods, ZCSDK Runtime updates from GitHub. Download the new file from Nexus and replace your exe (Linux: the AppImage zip).",
-  "publishedAt": "2026-09-08T03:48:03.615Z"
+  "url": "https://github.com/EnvianMods/ZeroCompanyModCommand/releases/tag/v1.9.3",
+  "notes": "Public 1.0.2 — fixed false update badges (checks follow the Nexus file-update chain), 7-Zip bundled for .7z/.rar mods, ZCSDK Runtime updates from GitHub. Download ZeroCompanyModCommand-v1.0.2.zip (Windows) or the AppImage (Linux) and replace your exe.",
+  "publishedAt": "2026-09-08T03:49:03.197Z"
 }
