@@ -1,6 +1,6 @@
 {
-  "latest": "1.9.3",
-  "url": "https://github.com/EnvianMods/ZeroCompanyModCommand/releases/tag/v1.9.3",
-  "notes": "Public 1.0.2 — fixed false update badges (checks follow the Nexus file-update chain), 7-Zip bundled for .7z/.rar mods, ZCSDK Runtime updates from GitHub. Download ZeroCompanyModCommand-v1.0.2.zip (Windows) or the AppImage (Linux) and replace your exe.",
-  "publishedAt": "2026-09-08T03:49:03.197Z"
+  "latest": "1.9.7",
+  "url": "https://github.com/EnvianMods/ZeroCompanyModCommand/releases/tag/v1.9.7",
+  "notes": "Public 1.0.3 — new DIRECT LAUNCH button (local exe, no Steam update check, keeps you on your current build with the freeze on); LAUNCH GAME always goes through Steam and explains the 'Disk write error' when the freeze is on. Download ZeroCompanyModCommand-v1.0.3.zip (Windows) or the AppImage (Linux) and replace your exe.",
+  "publishedAt": "2026-09-09T16:11:01.204Z"
 }
