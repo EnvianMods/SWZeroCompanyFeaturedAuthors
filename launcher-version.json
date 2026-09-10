@@ -1,6 +1,6 @@
 {
-  "latest": "1.9.9",
-  "url": "https://github.com/EnvianMods/ZeroCompanyModCommand/releases/tag/v1.9.9",
-  "notes": "Config Editor fix — a mod's settings are found wherever the mod keeps them (dlls/settings.ini, Scripts/config.lua, MXM/settings.lua) and Lua settings files are editable. Also: UE4SS version swap (kept builds + release picker). Download ZeroCompanyModCommand-v1.0.4.zip (Windows) or the AppImage (Linux) and replace your exe.",
-  "publishedAt": "2026-09-10T05:53:01.755Z"
+  "latest": "1.9.10",
+  "url": "https://github.com/EnvianMods/ZeroCompanyModCommand/releases/tag/v1.9.10",
+  "notes": "UE4SS now tells you when a newer experimental build is out — Settings > UE4SS shows your build and the current one, with an 'Update to build …' button. Download ZeroCompanyModCommand-v1.0.5.zip (Windows) or the AppImage (Linux) and replace your exe.",
+  "publishedAt": "2026-09-10T16:35:33.469Z"
 }
