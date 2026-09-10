@@ -1,6 +1,6 @@
 {
-  "latest": "1.9.7",
-  "url": "https://github.com/EnvianMods/ZeroCompanyModCommand/releases/tag/v1.9.7",
-  "notes": "Public 1.0.3 — new DIRECT LAUNCH button (local exe, no Steam update check, keeps you on your current build with the freeze on); LAUNCH GAME always goes through Steam and explains the 'Disk write error' when the freeze is on. Download ZeroCompanyModCommand-v1.0.3.zip (Windows) or the AppImage (Linux) and replace your exe.",
-  "publishedAt": "2026-09-09T16:11:01.204Z"
+  "latest": "1.9.8",
+  "url": "https://github.com/EnvianMods/ZeroCompanyModCommand/releases/tag/v1.9.8",
+  "notes": "UE4SS version swap — every UE4SS install now keeps the build it replaces; Settings > UE4SS > Versions restores any kept build or installs any GitHub release, so a frozen game can keep the UE4SS that worked with it. Download ZeroCompanyModCommand-v1.0.4.zip (Windows) or the AppImage (Linux) and replace your exe.",
+  "publishedAt": "2026-09-10T00:01:30.263Z"
 }
